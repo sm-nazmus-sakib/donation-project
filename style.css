@@ -107,7 +107,40 @@ body{
 
 .email-part{
     text-align: center;
+    
 }
+
+#get-update-input{
+    width: 20%;
+    height: 30px;
+    background-color: #D9D9D9;
+    border-radius: 5px;
+    border-top-style: hidden;
+    border-right-style: hidden;
+    border-left-style: hidden;
+    border-bottom-style: hidden;
+}
+.subs{
+    padding: 7px 30px;
+    border-radius: 5px;
+    color: white;
+    background-color: #FF5959;
+    border-top-style: hidden;
+    border-right-style: hidden;
+    border-left-style: hidden;
+    border-bottom-style: hidden;
+}
+
+.get-my-update{
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.get-update{
+    padding-bottom: 20px;
+    text-align: center;
+}
+
+
 footer{
     text-align: center;
     color: red;
@@ -119,12 +152,4 @@ footer{
 .footer-pera{
     line-height: 50px;
     color: white;
-}
-.get-my-update{
-    padding-top: 100px;
-    padding-bottom: 100px;
-}
-.get-update{
-    padding-bottom: 20px;
-    text-align: center;
 }
