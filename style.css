@@ -163,6 +163,33 @@ body{
 }
 /* ==============donate plan section end============ */
 
+/* volunteer section start */
+.volunteer{
+    text-align: center;  
+}
+
+.volunteer h1{
+    text-align: center;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 50px;
+}
+
+.volunteer p{
+    text-align: center;
+    line-height: 25px;
+    margin-bottom: 30px;
+}
+
+.members{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+/* volunteer section end */
+
+
 /* ====================get update section start============= */
 .update-section .get-update{
     text-align: center;
