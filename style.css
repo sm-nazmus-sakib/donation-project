@@ -73,14 +73,17 @@ body{
     margin-top: 30px;
 }
 
-.two-hundred-taka{
-    border: 2px solid rgb(240, 15, 15);
-    padding-top:5px;
-    padding-bottom: 5px;
-    padding-left: 20px;
-    padding-right: 20px;
-    color: red;
+.donate-today-amount div{
+    background-color: #e6d5d5d5;
+    color: #000;
+    padding: 12px 20px;
+    margin-right: 20px;
     border-radius: 5px;
+}
+.donate-today-amount  .two-hundred-taka{
+    border: 2px solid rgb(240, 15, 15);
+    color: red;
+    background-color: #FFEEEE;
 }
 
 .form{
