@@ -87,9 +87,10 @@ body{
     text-align: center;
     padding-top: 50px;
 }
-input{
+.amount{
     text-align: center;
     width: 45%;
+    padding: 10px;
     border-top-style: hidden;
     border-right-style: hidden;
     border-left-style: hidden;
@@ -102,4 +103,28 @@ input{
     color: white;
     background-color: tomato;
     border-radius: 10px; 
+}
+
+.email-part{
+    text-align: center;
+}
+footer{
+    text-align: center;
+    color: red;
+    background-color: rgb(27, 26, 26);
+    padding-top: 50px;
+    padding-bottom: 25px;
+}
+
+.footer-pera{
+    line-height: 50px;
+    color: white;
+}
+.get-my-update{
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.get-update{
+    padding-bottom: 20px;
+    text-align: center;
 }
